@@ -1,0 +1,49 @@
+
+.box{
+    width: 351px;
+    height: 113px;
+}
+
+.mrg{
+    margin: auto;
+}
+
+.solbox{
+    float: left;
+    width: 31%;
+    margin-right: 0.25%;
+    padding: 1%;
+    height: 100%;
+    
+}
+
+.ortabox{
+    float: left;
+    width: 25.5%;
+    margin-right: 0.25%;
+    height: 100%;
+    padding: 1%;
+}
+
+.sagbox{
+    float: left;
+    width: 37%;
+    height: 100%;
+    padding: 1%;
+}
+
+.ort{
+    text-align: center;
+    align-items: center;
+    width: 90%;
+    margin: auto;
+}
+
+.boxs{
+    height: 80px;
+    width: 90%;
+    margin: auto;
+    margin-top: 2px;
+    text-align: center;
+
+}
